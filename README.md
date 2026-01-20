@@ -1,7 +1,8 @@
-
 <p align="center">
-  <img src="capa_projeto_carros_2010" width="900">
+  <img src="capa_projeto_carros_2010.png" width="900">
 </p>
+
+
 
 #  Análise das Marcas e Carrocerias Mais Vendidas em 2010
 ### Autor: **Rafael Alves dos Santos**
